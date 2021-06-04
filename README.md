@@ -1,3 +1,6 @@
+# This repository is obsolete and will be archived
+
+
 # YUVCrasher
 Automatically make videos that crash discord
 
